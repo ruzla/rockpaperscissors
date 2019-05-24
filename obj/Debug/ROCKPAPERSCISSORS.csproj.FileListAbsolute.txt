@@ -1,0 +1,7 @@
+C:\Users\Russ\source\repos\Projects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\bin\Debug\ROCKPAPERSCISSORS.exe.config
+C:\Users\Russ\source\repos\Projects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\bin\Debug\ROCKPAPERSCISSORS.exe
+C:\Users\Russ\source\repos\Projects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\bin\Debug\ROCKPAPERSCISSORS.pdb
+C:\Users\Russ\source\repos\Projects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\obj\Debug\ROCKPAPERSCISSORS.csprojAssemblyReference.cache
+C:\Users\Russ\source\repos\Projects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\obj\Debug\ROCKPAPERSCISSORS.csproj.CoreCompileInputs.cache
+C:\Users\Russ\source\repos\Projects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\obj\Debug\ROCKPAPERSCISSORS.exe
+C:\Users\Russ\source\repos\Projects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\obj\Debug\ROCKPAPERSCISSORS.pdb
